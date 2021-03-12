@@ -1,0 +1,121 @@
+==================================================================
+https://keybase.io/theden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of SHackW
+  * I am ShaW (https://keybase.io/theden) on keybase.
+  * I have a public key with fingerprint 53B9 6C91 759A B0FF 3C2A 87B3 69DB F60B AC14 130A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "#",
+      "fingerprint": "#",
+      "host": "keybase.io",
+      "key_id": "#",
+      "kid": "#",
+      "uid": "#",
+      "username": "#"
+    },
+    "service": {
+      "hostname": "#",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": #,
+  "expire_in": #,
+  "prev": "#",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+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
+=6MBe
+-----END PGP PUBLIC KEY BLOCK-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shaw21
+==================================================================
